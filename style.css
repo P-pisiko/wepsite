@@ -53,3 +53,9 @@ canvas {
     left: 0;
     bottom: 0;
 }
+.ilk-arkap{
+    min-height: 87vh;
+    background: -moz-linear-gradient(50deg, #211F2E 0%, #413771 100%);
+    background: -webkit-linear-gradient(50deg, #211F2E 0%, #413771 100%);
+    background: linear-gradient(45deg, #1d1c29 0%, #413771 100%);
+}
